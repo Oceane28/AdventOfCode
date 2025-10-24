@@ -13,5 +13,5 @@
 - **Part 2:** Total sum of enabled mul: 76911921
 
 **Day 4**
-- **Part 1:**
-- **Part 2:** 
+- **Part 1:** Total XMAS occurences found: 2401
+- **Part 2:** Total X-MAS patterns found: 1822
