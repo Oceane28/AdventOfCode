@@ -9,8 +9,8 @@
 - **Part 2:** Safe reports: 364
 
 **Day 3**
-- **Part 1:**
-- **Part 2:**
+- **Part 1:** Total sum of all mul: 163931492
+- **Part 2:** Total sum of enabled mul: 76911921
 
 **Day 4**
 - **Part 1:**
